@@ -5,6 +5,11 @@
 Bu uygulama, banka hesaplarınızı, faturalarınızı ve giderlerinizi kolayca yönetmenize olanak sağlar. Kullanıcı dostu arayüzü sayesinde, finansal hareketlerinizi takip edebilir, ödeme planları oluşturabilir ve gelir-gider analizlerinizi gerçekleştirebilirsiniz.
 Öne çıkan özellikler:
 
+Banka hesap bakiyeleri ve hareket takibi
+Fatura ve gider yönetimi
+İstatistik panelleri ile finansal analiz
+Tüm finansal işlemleriniz tek bir yerde!
+
 ## Login Paneli 🚩
 ![image](https://github.com/user-attachments/assets/318fd2aa-5b9f-4fe8-9816-715e163eb913)
 Bu ekran, kullanıcı doğrulama ve giriş işlemleri için tasarlanmış Giriş Panelidir. Kullanıcılar, sisteme erişim sağlamak için bu panel üzerinden kullanıcı adı (Username) ve şifrelerini (Password) girebilirler.
